@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Vongola
-:tada: I'm an Information Security Engineer / Software Engineer from Taiwan.  
+I'm an Information Security Engineer / Software Engineer from Taiwan.  
 :office: I’m currently working at **Academia Sinica, Taiwan**.  
 :pencil: I regulary write articles on [https://blog.vongola.tw](https://blog.vongola.tw).  
+:heart: I like to watch animation, read novels, play games, and read comics!
 
 #### My strengths
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg?raw=true" alt="vuejs" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg?raw=true" alt="html5" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true" alt="javascript" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg?raw=true" alt="typescript" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg?raw=true" alt="laravel" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg?raw=true" alt="mysql" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg?raw=true" alt="php" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg?raw=true" alt="redis" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg?raw=true" alt="python" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg?raw=true" alt="nginx" width="20" height="20"/>
