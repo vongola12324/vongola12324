@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Vongola
 I'm an Sr. Backend Engineer from Taiwan.  
 :office: I’m currently working at **Trend Micro Corp., Taiwan**.  
-:pencil: I regulary write articles on [https://blog.vongola.tw](https://blog.vongola.tw).  
 :heart: I like to watch animation, read novels, play games, and read comics!
 
 ## My strengths
